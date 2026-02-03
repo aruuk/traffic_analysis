@@ -1,0 +1,789 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "road_name": "Проспект Чуй",
+                "congestion": 0.25,
+                "speed_kmh": 45,
+                "timestamp": "2026-02-03T14:00:00+06:00"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        74.5850,
+                        42.8746
+                    ],
+                    [
+                        74.5920,
+                        42.8746
+                    ],
+                    [
+                        74.6000,
+                        42.8746
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "road_name": "Проспект Чуй (центр)",
+                "congestion": 0.42,
+                "speed_kmh": 32,
+                "timestamp": "2026-02-03T14:00:00+06:00"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        74.6000,
+                        42.8746
+                    ],
+                    [
+                        74.6080,
+                        42.8746
+                    ],
+                    [
+                        74.6150,
+                        42.8746
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "road_name": "Улица Московская",
+                "congestion": 0.68,
+                "speed_kmh": 22,
+                "timestamp": "2026-02-03T14:00:00+06:00"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        74.5890,
+                        42.8780
+                    ],
+                    [
+                        74.5890,
+                        42.8750
+                    ],
+                    [
+                        74.5890,
+                        42.8720
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "road_name": "Улица Киевская",
+                "congestion": 0.35,
+                "speed_kmh": 38,
+                "timestamp": "2026-02-03T14:00:00+06:00"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        74.5850,
+                        42.8710
+                    ],
+                    [
+                        74.5950,
+                        42.8710
+                    ],
+                    [
+                        74.6050,
+                        42.8710
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "road_name": "Улица Киевская (восток)",
+                "congestion": 0.55,
+                "speed_kmh": 28,
+                "timestamp": "2026-02-03T14:00:00+06:00"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        74.6050,
+                        42.8710
+                    ],
+                    [
+                        74.6120,
+                        42.8710
+                    ],
+                    [
+                        74.6200,
+                        42.8710
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "road_name": "Проспект Манаса",
+                "congestion": 0.82,
+                "speed_kmh": 15,
+                "timestamp": "2026-02-03T14:00:00+06:00"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        74.6050,
+                        42.8800
+                    ],
+                    [
+                        74.6050,
+                        42.8760
+                    ],
+                    [
+                        74.6050,
+                        42.8720
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "road_name": "Проспект Манаса (юг)",
+                "congestion": 0.72,
+                "speed_kmh": 18,
+                "timestamp": "2026-02-03T14:00:00+06:00"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        74.6050,
+                        42.8720
+                    ],
+                    [
+                        74.6050,
+                        42.8680
+                    ],
+                    [
+                        74.6050,
+                        42.8640
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "road_name": "Улица Боконбаева",
+                "congestion": 0.28,
+                "speed_kmh": 42,
+                "timestamp": "2026-02-03T14:00:00+06:00"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        74.5880,
+                        42.8680
+                    ],
+                    [
+                        74.5980,
+                        42.8680
+                    ],
+                    [
+                        74.6080,
+                        42.8680
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "road_name": "Улица Токтогула",
+                "congestion": 0.45,
+                "speed_kmh": 30,
+                "timestamp": "2026-02-03T14:00:00+06:00"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        74.5850,
+                        42.8780
+                    ],
+                    [
+                        74.5950,
+                        42.8780
+                    ],
+                    [
+                        74.6050,
+                        42.8780
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "road_name": "Улица Токтогула (центр)",
+                "congestion": 0.58,
+                "speed_kmh": 26,
+                "timestamp": "2026-02-03T14:00:00+06:00"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        74.6050,
+                        42.8780
+                    ],
+                    [
+                        74.6120,
+                        42.8780
+                    ],
+                    [
+                        74.6200,
+                        42.8780
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "road_name": "Улица Абдрахманова",
+                "congestion": 0.38,
+                "speed_kmh": 35,
+                "timestamp": "2026-02-03T14:00:00+06:00"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        74.5950,
+                        42.8810
+                    ],
+                    [
+                        74.5950,
+                        42.8770
+                    ],
+                    [
+                        74.5950,
+                        42.8730
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "road_name": "Улица Абдрахманова (юг)",
+                "congestion": 0.48,
+                "speed_kmh": 29,
+                "timestamp": "2026-02-03T14:00:00+06:00"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        74.5950,
+                        42.8730
+                    ],
+                    [
+                        74.5950,
+                        42.8690
+                    ],
+                    [
+                        74.5950,
+                        42.8650
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "road_name": "Улица Жибек Жолу",
+                "congestion": 0.22,
+                "speed_kmh": 48,
+                "timestamp": "2026-02-03T14:00:00+06:00"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        74.5820,
+                        42.8820
+                    ],
+                    [
+                        74.5920,
+                        42.8820
+                    ],
+                    [
+                        74.6020,
+                        42.8820
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "road_name": "Улица Жибек Жолу (восток)",
+                "congestion": 0.32,
+                "speed_kmh": 40,
+                "timestamp": "2026-02-03T14:00:00+06:00"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        74.6020,
+                        42.8820
+                    ],
+                    [
+                        74.6100,
+                        42.8820
+                    ],
+                    [
+                        74.6180,
+                        42.8820
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "road_name": "Улица Исанова",
+                "congestion": 0.52,
+                "speed_kmh": 27,
+                "timestamp": "2026-02-03T14:00:00+06:00"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        74.6120,
+                        42.8800
+                    ],
+                    [
+                        74.6120,
+                        42.8760
+                    ],
+                    [
+                        74.6120,
+                        42.8720
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "road_name": "Улица Логвиненко",
+                "congestion": 0.18,
+                "speed_kmh": 52,
+                "timestamp": "2026-02-03T14:00:00+06:00"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        74.5820,
+                        42.8650
+                    ],
+                    [
+                        74.5920,
+                        42.8650
+                    ],
+                    [
+                        74.6020,
+                        42.8650
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "road_name": "Улица Орозбекова",
+                "congestion": 0.62,
+                "speed_kmh": 24,
+                "timestamp": "2026-02-03T14:00:00+06:00"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        74.5880,
+                        42.8800
+                    ],
+                    [
+                        74.5880,
+                        42.8760
+                    ],
+                    [
+                        74.5880,
+                        42.8720
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "road_name": "Улица Турусбекова",
+                "congestion": 0.75,
+                "speed_kmh": 17,
+                "timestamp": "2026-02-03T14:00:00+06:00"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        74.6180,
+                        42.8780
+                    ],
+                    [
+                        74.6180,
+                        42.8740
+                    ],
+                    [
+                        74.6180,
+                        42.8700
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "road_name": "Улица Юнусалиева",
+                "congestion": 0.30,
+                "speed_kmh": 40,
+                "timestamp": "2026-02-03T14:00:00+06:00"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        74.5780,
+                        42.8740
+                    ],
+                    [
+                        74.5780,
+                        42.8700
+                    ],
+                    [
+                        74.5780,
+                        42.8660
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "road_name": "Бульвар Эркиндик",
+                "congestion": 0.15,
+                "speed_kmh": 55,
+                "timestamp": "2026-02-03T14:00:00+06:00"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        74.6000,
+                        42.8810
+                    ],
+                    [
+                        74.6000,
+                        42.8770
+                    ],
+                    [
+                        74.6000,
+                        42.8730
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "road_name": "Бульвар Эркиндик (юг)",
+                "congestion": 0.28,
+                "speed_kmh": 43,
+                "timestamp": "2026-02-03T14:00:00+06:00"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        74.6000,
+                        42.8730
+                    ],
+                    [
+                        74.6000,
+                        42.8690
+                    ],
+                    [
+                        74.6000,
+                        42.8650
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "road_name": "Улица Раззакова",
+                "congestion": 0.88,
+                "speed_kmh": 12,
+                "timestamp": "2026-02-03T14:00:00+06:00"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        74.6150,
+                        42.8820
+                    ],
+                    [
+                        74.6150,
+                        42.8780
+                    ],
+                    [
+                        74.6150,
+                        42.8740
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "road_name": "Улица Панфилова",
+                "congestion": 0.40,
+                "speed_kmh": 33,
+                "timestamp": "2026-02-03T14:00:00+06:00"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        74.5920,
+                        42.8800
+                    ],
+                    [
+                        74.5920,
+                        42.8760
+                    ],
+                    [
+                        74.5920,
+                        42.8720
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "road_name": "Улица Фрунзе",
+                "congestion": 0.56,
+                "speed_kmh": 26,
+                "timestamp": "2026-02-03T14:00:00+06:00"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        74.5850,
+                        42.8620
+                    ],
+                    [
+                        74.5950,
+                        42.8620
+                    ],
+                    [
+                        74.6050,
+                        42.8620
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "road_name": "Улица Советская",
+                "congestion": 0.33,
+                "speed_kmh": 38,
+                "timestamp": "2026-02-03T14:00:00+06:00"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        74.5820,
+                        42.8760
+                    ],
+                    [
+                        74.5900,
+                        42.8760
+                    ],
+                    [
+                        74.5980,
+                        42.8760
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "road_name": "Улица Ахунбаева",
+                "congestion": 0.70,
+                "speed_kmh": 20,
+                "timestamp": "2026-02-03T14:00:00+06:00"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        74.5850,
+                        42.8590
+                    ],
+                    [
+                        74.5950,
+                        42.8590
+                    ],
+                    [
+                        74.6050,
+                        42.8590
+                    ],
+                    [
+                        74.6150,
+                        42.8590
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "road_name": "Улица Тыныстанова",
+                "congestion": 0.48,
+                "speed_kmh": 30,
+                "timestamp": "2026-02-03T14:00:00+06:00"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        74.6080,
+                        42.8810
+                    ],
+                    [
+                        74.6080,
+                        42.8770
+                    ],
+                    [
+                        74.6080,
+                        42.8730
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "road_name": "Улица Горького",
+                "congestion": 0.92,
+                "speed_kmh": 8,
+                "timestamp": "2026-02-03T14:00:00+06:00"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        74.5980,
+                        42.8850
+                    ],
+                    [
+                        74.5980,
+                        42.8810
+                    ],
+                    [
+                        74.5980,
+                        42.8770
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "road_name": "Улица Чокморова",
+                "congestion": 0.20,
+                "speed_kmh": 50,
+                "timestamp": "2026-02-03T14:00:00+06:00"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        74.6200,
+                        42.8750
+                    ],
+                    [
+                        74.6200,
+                        42.8710
+                    ],
+                    [
+                        74.6200,
+                        42.8670
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "road_name": "Улица Байтик Баатыра",
+                "congestion": 0.65,
+                "speed_kmh": 23,
+                "timestamp": "2026-02-03T14:00:00+06:00"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        74.5760,
+                        42.8780
+                    ],
+                    [
+                        74.5760,
+                        42.8740
+                    ],
+                    [
+                        74.5760,
+                        42.8700
+                    ]
+                ]
+            }
+        }
+    ]
+}
